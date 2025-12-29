@@ -1,0 +1,7 @@
+{
+  "name": "Motion Tracker Pro",
+  "description": "Industrial-grade real-time hand motion analysis and sequencing tool for ergonomics and productivity engineering.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
